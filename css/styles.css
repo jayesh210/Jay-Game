@@ -197,7 +197,7 @@ h2 {
 }
 
 /*Media Query for title*/
-@media(max-width: 974px) {
+@media(max-width: 900px) {
     #container-fluid1 {
         text-align: center;
     }
